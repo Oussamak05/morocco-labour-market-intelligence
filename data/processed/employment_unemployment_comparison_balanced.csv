@@ -1,0 +1,559 @@
+﻿Provinces/Préfectures,Annee,Taux_emploi,Taux_chomage
+Agadir-Ida-Ou-Tanane,2017,36.2,13.5
+Agadir-Ida-Ou-Tanane,2018,34.9,14.2
+Agadir-Ida-Ou-Tanane,2019,36.3,13.3
+Agadir-Ida-Ou-Tanane,2020,35.1,15.4
+Agadir-Ida-Ou-Tanane,2021,34.5,15.5
+Agadir-Ida-Ou-Tanane,2022,32.3,15.8
+Agadir-Ida-Ou-Tanane,2023,33.1,15.9
+Agadir-Ida-Ou-Tanane,2024,34.8,16.4
+Agadir-Ida-Ou-Tanane,2025,35.3,14.6
+Al Haouz,2017,47.3,3.5
+Al Haouz,2018,47.6,3.5
+Al Haouz,2019,46.9,3.4
+Al Haouz,2020,43.7,6.6
+Al Haouz,2021,45.5,4.3
+Al Haouz,2022,43.7,3.5
+Al Haouz,2023,43.7,3.9
+Al Haouz,2024,41.1,5.4
+Al Haouz,2025,42.2,6.0
+Al Hoceima,2017,48.3,7.8
+Al Hoceima,2018,48.6,7.0
+Al Hoceima,2019,44.1,8.4
+Al Hoceima,2020,40.2,11.4
+Al Hoceima,2021,45.4,10.0
+Al Hoceima,2022,48.1,8.5
+Al Hoceima,2023,44.8,10.2
+Al Hoceima,2024,45.2,8.0
+Al Hoceima,2025,44.8,6.7
+Azilal,2017,42.8,4.6
+Azilal,2018,41.4,2.9
+Azilal,2019,43.9,3.4
+Azilal,2020,40.7,6.6
+Azilal,2021,40.5,8.0
+Azilal,2022,36.1,10.6
+Azilal,2023,29.9,12.3
+Azilal,2024,27.0,13.9
+Azilal,2025,25.4,12.1
+Benslimane,2017,57.0,5.2
+Benslimane,2018,55.7,5.1
+Benslimane,2019,54.3,5.4
+Benslimane,2020,45.0,8.3
+Benslimane,2021,44.3,7.3
+Benslimane,2022,41.7,8.3
+Benslimane,2023,39.9,11.7
+Benslimane,2024,40.2,13.8
+Benslimane,2025,40.4,13.5
+Berkane,2017,36.8,18.1
+Berkane,2018,37.7,15.5
+Berkane,2019,37.7,11.9
+Berkane,2020,34.3,19.8
+Berkane,2021,36.1,19.6
+Berkane,2022,36.7,17.5
+Berkane,2023,33.9,20.5
+Berkane,2024,34.0,18.7
+Berkane,2025,31.5,20.8
+Berrechid,2017,46.6,5.8
+Berrechid,2018,46.8,5.1
+Berrechid,2019,48.3,4.3
+Berrechid,2020,42.4,8.7
+Berrechid,2021,43.6,7.7
+Berrechid,2022,41.5,6.8
+Berrechid,2023,40.8,9.7
+Berrechid,2024,41.4,11.9
+Berrechid,2025,41.4,13.0
+Béni Mellal,2017,39.0,7.6
+Béni Mellal,2018,37.4,8.1
+Béni Mellal,2019,39.3,8.1
+Béni Mellal,2020,37.4,9.1
+Béni Mellal,2021,37.2,13.6
+Béni Mellal,2022,33.6,16.5
+Béni Mellal,2023,31.7,18.3
+Béni Mellal,2024,31.5,17.8
+Béni Mellal,2025,31.8,14.9
+Casablanca,2017,38.6,15.9
+Casablanca,2018,39.2,14.2
+Casablanca,2019,40.3,13.5
+Casablanca,2020,36.7,18.5
+Casablanca,2021,36.3,19.7
+Casablanca,2022,36.3,18.2
+Casablanca,2023,35.8,19.0
+Casablanca,2024,35.7,18.3
+Casablanca,2025,36.1,17.7
+Chefchaouen,2017,52.8,3.9
+Chefchaouen,2018,52.6,3.8
+Chefchaouen,2019,49.6,4.7
+Chefchaouen,2020,46.4,5.5
+Chefchaouen,2021,56.0,4.6
+Chefchaouen,2022,57.2,5.0
+Chefchaouen,2023,55.2,6.0
+Chefchaouen,2024,56.5,6.0
+Chefchaouen,2025,56.1,4.6
+Chtouka-Ait Baha,2017,45.4,5.9
+Chtouka-Ait Baha,2018,46.3,6.4
+Chtouka-Ait Baha,2019,42.3,7.3
+Chtouka-Ait Baha,2020,39.6,9.2
+Chtouka-Ait Baha,2021,42.5,6.8
+Chtouka-Ait Baha,2022,39.1,7.6
+Chtouka-Ait Baha,2023,38.1,11.0
+Chtouka-Ait Baha,2024,39.9,7.4
+Chtouka-Ait Baha,2025,40.8,6.8
+Driouch,2017,37.2,14.7
+Driouch,2018,36.7,14.4
+Driouch,2019,38.3,11.5
+Driouch,2020,34.2,17.4
+Driouch,2021,36.0,11.7
+Driouch,2022,34.5,12.9
+Driouch,2023,30.9,18.6
+Driouch,2024,29.9,17.4
+Driouch,2025,31.5,16.6
+El Hajeb,2017,39.9,13.3
+El Hajeb,2018,39.6,9.2
+El Hajeb,2019,38.2,9.8
+El Hajeb,2020,35.3,17.0
+El Hajeb,2021,38.0,13.8
+El Hajeb,2022,37.7,16.2
+El Hajeb,2023,39.3,14.0
+El Hajeb,2024,40.5,14.1
+El Hajeb,2025,39.1,16.0
+El Jadida,2017,55.1,8.7
+El Jadida,2018,53.5,8.6
+El Jadida,2019,51.9,9.3
+El Jadida,2020,50.4,10.1
+El Jadida,2021,47.3,13.1
+El Jadida,2022,47.9,11.3
+El Jadida,2023,45.5,12.0
+El Jadida,2024,45.5,12.0
+El Jadida,2025,45.3,12.0
+El Kelâa des Sraghna,2017,47.0,4.9
+El Kelâa des Sraghna,2018,46.2,3.9
+El Kelâa des Sraghna,2019,45.7,5.2
+El Kelâa des Sraghna,2020,43.7,6.0
+El Kelâa des Sraghna,2021,43.3,4.9
+El Kelâa des Sraghna,2022,41.3,7.0
+El Kelâa des Sraghna,2023,38.5,8.8
+El Kelâa des Sraghna,2024,39.7,9.0
+El Kelâa des Sraghna,2025,38.4,9.4
+Errachidia,2017,32.6,8.0
+Errachidia,2018,32.7,7.0
+Errachidia,2019,34.2,5.4
+Errachidia,2020,33.0,7.9
+Errachidia,2021,33.9,11.5
+Errachidia,2022,31.7,11.5
+Errachidia,2023,31.6,14.2
+Errachidia,2024,30.2,12.3
+Errachidia,2025,30.7,9.1
+Figuig,2017,41.5,14.8
+Figuig,2018,40.8,13.2
+Figuig,2019,36.1,12.1
+Figuig,2020,31.5,23.5
+Figuig,2021,38.8,13.3
+Figuig,2022,39.2,14.4
+Figuig,2023,37.2,15.2
+Figuig,2024,31.8,21.9
+Figuig,2025,34.5,18.6
+Fquih Ben Salah,2017,44.8,3.3
+Fquih Ben Salah,2018,44.1,3.7
+Fquih Ben Salah,2019,44.7,3.9
+Fquih Ben Salah,2020,41.7,6.3
+Fquih Ben Salah,2021,41.1,6.5
+Fquih Ben Salah,2022,39.8,6.9
+Fquih Ben Salah,2023,37.8,9.2
+Fquih Ben Salah,2024,36.6,10.2
+Fquih Ben Salah,2025,37.5,9.6
+Fès,2017,32.3,12.5
+Fès,2018,31.9,14.3
+Fès,2019,34.3,11.9
+Fès,2020,33.3,14.9
+Fès,2021,31.3,16.8
+Fès,2022,32.2,17.2
+Fès,2023,32.0,17.9
+Fès,2024,32.9,17.8
+Fès,2025,34.9,17.5
+Guelmim,2017,34.5,18.9
+Guelmim,2018,32.5,22.3
+Guelmim,2019,34.0,22.5
+Guelmim,2020,31.6,26.9
+Guelmim,2021,32.1,26.0
+Guelmim,2022,28.9,28.4
+Guelmim,2023,28.5,28.2
+Guelmim,2024,28.4,27.1
+Guelmim,2025,30.8,24.9
+Guercif,2017,41.8,14.6
+Guercif,2018,41.1,13.1
+Guercif,2019,43.7,9.7
+Guercif,2020,42.2,13.2
+Guercif,2021,40.5,14.0
+Guercif,2022,38.9,14.5
+Guercif,2023,35.1,16.5
+Guercif,2024,34.5,17.5
+Guercif,2025,36.6,15.4
+Ifrane,2017,44.7,11.3
+Ifrane,2018,41.8,11.8
+Ifrane,2019,40.9,10.7
+Ifrane,2020,36.5,15.9
+Ifrane,2021,41.6,14.4
+Ifrane,2022,43.6,13.5
+Ifrane,2023,42.1,12.5
+Ifrane,2024,41.4,15.0
+Ifrane,2025,44.7,11.4
+Inezgane-Ait Melloul,2017,36.8,13.3
+Inezgane-Ait Melloul,2018,36.3,12.5
+Inezgane-Ait Melloul,2019,37.4,12.8
+Inezgane-Ait Melloul,2020,34.7,14.6
+Inezgane-Ait Melloul,2021,35.5,14.6
+Inezgane-Ait Melloul,2022,35.0,14.1
+Inezgane-Ait Melloul,2023,35.1,15.8
+Inezgane-Ait Melloul,2024,36.5,15.6
+Inezgane-Ait Melloul,2025,37.0,14.3
+Jerada,2017,36.2,19.1
+Jerada,2018,35.6,17.3
+Jerada,2019,32.1,16.1
+Jerada,2020,32.0,20.8
+Jerada,2021,31.4,24.3
+Jerada,2022,32.4,21.1
+Jerada,2023,29.8,24.2
+Jerada,2024,31.3,21.6
+Jerada,2025,31.9,25.8
+Khouribga,2017,43.0,7.1
+Khouribga,2018,40.8,7.5
+Khouribga,2019,41.3,6.4
+Khouribga,2020,40.5,7.7
+Khouribga,2021,40.0,9.4
+Khouribga,2022,40.3,8.4
+Khouribga,2023,38.1,10.5
+Khouribga,2024,39.6,8.8
+Khouribga,2025,40.3,7.9
+Khémisset,2017,42.3,10.7
+Khémisset,2018,41.9,9.3
+Khémisset,2019,41.5,8.2
+Khémisset,2020,37.1,12.3
+Khémisset,2021,38.7,10.1
+Khémisset,2022,38.1,9.9
+Khémisset,2023,35.6,11.6
+Khémisset,2024,34.7,13.4
+Khémisset,2025,33.9,12.9
+Khénifra,2017,46.0,7.7
+Khénifra,2018,45.7,6.2
+Khénifra,2019,46.0,4.1
+Khénifra,2020,41.6,7.4
+Khénifra,2021,43.7,9.3
+Khénifra,2022,39.9,9.6
+Khénifra,2023,36.6,13.6
+Khénifra,2024,38.1,13.1
+Khénifra,2025,39.2,12.9
+Kénitra,2017,44.9,11.4
+Kénitra,2018,44.8,10.0
+Kénitra,2019,43.6,8.3
+Kénitra,2020,40.9,11.0
+Kénitra,2021,41.3,10.4
+Kénitra,2022,41.9,8.8
+Kénitra,2023,42.4,8.8
+Kénitra,2024,40.9,8.3
+Kénitra,2025,39.6,10.3
+Larache,2017,38.9,9.1
+Larache,2018,40.5,6.5
+Larache,2019,39.7,6.5
+Larache,2020,42.5,9.2
+Larache,2021,44.6,9.2
+Larache,2022,42.9,9.6
+Larache,2023,41.5,10.1
+Larache,2024,41.4,9.1
+Larache,2025,42.1,8.7
+Laâyoune,2017,33.3,14.8
+Laâyoune,2018,33.1,17.4
+Laâyoune,2019,30.6,21.4
+Laâyoune,2020,28.9,25.3
+Laâyoune,2021,29.6,26.7
+Laâyoune,2022,31.1,27.7
+Laâyoune,2023,31.9,27.1
+Laâyoune,2024,31.1,30.9
+Laâyoune,2025,30.0,35.5
+M'Diq-Fnideq,2017,42.2,10.1
+M'Diq-Fnideq,2018,41.8,11.3
+M'Diq-Fnideq,2019,41.8,13.1
+M'Diq-Fnideq,2020,38.5,18.8
+M'Diq-Fnideq,2021,38.8,19.7
+M'Diq-Fnideq,2022,39.4,14.9
+M'Diq-Fnideq,2023,37.0,18.4
+M'Diq-Fnideq,2024,36.5,18.0
+M'Diq-Fnideq,2025,38.4,15.3
+Marrakech,2017,40.6,9.4
+Marrakech,2018,41.1,8.2
+Marrakech,2019,41.6,6.7
+Marrakech,2020,40.1,8.3
+Marrakech,2021,37.7,13.1
+Marrakech,2022,38.3,9.9
+Marrakech,2023,39.0,9.7
+Marrakech,2024,38.9,11.1
+Marrakech,2025,39.5,10.0
+Meknès,2017,34.1,17.1
+Meknès,2018,34.8,15.1
+Meknès,2019,35.5,14.1
+Meknès,2020,33.3,19.2
+Meknès,2021,34.1,21.5
+Meknès,2022,33.6,20.1
+Meknès,2023,34.1,21.6
+Meknès,2024,34.9,20.3
+Meknès,2025,34.0,20.8
+Midelt,2017,44.4,5.7
+Midelt,2018,46.3,5.1
+Midelt,2019,45.7,5.2
+Midelt,2020,43.5,5.8
+Midelt,2021,43.3,9.1
+Midelt,2022,41.3,8.3
+Midelt,2023,41.3,9.0
+Midelt,2024,39.6,7.2
+Midelt,2025,38.2,6.7
+Mohammadia,2017,39.0,14.2
+Mohammadia,2018,38.1,11.6
+Mohammadia,2019,37.7,11.2
+Mohammadia,2020,38.3,12.5
+Mohammadia,2021,36.4,14.5
+Mohammadia,2022,36.5,13.1
+Mohammadia,2023,37.4,12.1
+Mohammadia,2024,37.6,11.8
+Mohammadia,2025,37.9,12.4
+Nador,2017,37.7,15.1
+Nador,2018,38.0,13.5
+Nador,2019,37.8,12.7
+Nador,2020,32.5,21.4
+Nador,2021,34.0,18.7
+Nador,2022,33.2,18.1
+Nador,2023,31.7,19.0
+Nador,2024,31.5,20.6
+Nador,2025,31.3,21.7
+Nouaceur,2017,47.9,6.3
+Nouaceur,2018,45.9,7.3
+Nouaceur,2019,46.8,8.3
+Nouaceur,2020,45.5,8.2
+Nouaceur,2021,44.5,10.3
+Nouaceur,2022,41.7,11.1
+Nouaceur,2023,42.2,14.9
+Nouaceur,2024,42.8,15.8
+Nouaceur,2025,44.4,13.8
+Ouarzazate,2017,40.0,5.4
+Ouarzazate,2018,39.6,6.1
+Ouarzazate,2019,40.4,5.5
+Ouarzazate,2020,39.7,11.8
+Ouarzazate,2021,43.4,9.8
+Ouarzazate,2022,41.8,8.7
+Ouarzazate,2023,40.0,14.1
+Ouarzazate,2024,42.0,9.4
+Ouarzazate,2025,40.9,9.7
+Oued Ed-Dahab,2017,66.6,7.4
+Oued Ed-Dahab,2018,64.7,6.3
+Oued Ed-Dahab,2019,60.0,6.5
+Oued Ed-Dahab,2020,50.6,8.2
+Oued Ed-Dahab,2021,49.7,9.1
+Oued Ed-Dahab,2022,53.8,8.3
+Oued Ed-Dahab,2023,56.5,6.6
+Oued Ed-Dahab,2024,53.0,13.4
+Oued Ed-Dahab,2025,53.2,10.6
+Ouezzane,2017,43.6,7.2
+Ouezzane,2018,41.7,7.2
+Ouezzane,2019,39.8,8.4
+Ouezzane,2020,44.7,4.5
+Ouezzane,2021,51.7,5.5
+Ouezzane,2022,50.4,4.3
+Ouezzane,2023,47.9,4.9
+Ouezzane,2024,44.7,6.4
+Ouezzane,2025,44.3,7.4
+Oujda-Angad,2017,34.9,20.7
+Oujda-Angad,2018,34.2,19.7
+Oujda-Angad,2019,34.5,18.0
+Oujda-Angad,2020,31.8,23.7
+Oujda-Angad,2021,32.7,19.8
+Oujda-Angad,2022,33.8,18.8
+Oujda-Angad,2023,31.1,21.5
+Oujda-Angad,2024,31.3,23.3
+Oujda-Angad,2025,29.1,26.1
+Rabat,2017,36.7,15.7
+Rabat,2018,36.9,14.4
+Rabat,2019,36.7,14.2
+Rabat,2020,35.7,14.8
+Rabat,2021,34.3,16.6
+Rabat,2022,35.2,16.1
+Rabat,2023,35.0,15.2
+Rabat,2024,36.8,15.1
+Rabat,2025,37.4,13.3
+Rehamna,2017,46.7,4.4
+Rehamna,2018,45.4,3.7
+Rehamna,2019,45.4,3.6
+Rehamna,2020,42.8,4.4
+Rehamna,2021,46.3,4.0
+Rehamna,2022,43.8,4.3
+Rehamna,2023,44.3,5.7
+Rehamna,2024,42.1,5.5
+Rehamna,2025,42.2,5.1
+Safi,2017,43.1,13.0
+Safi,2018,43.1,14.2
+Safi,2019,42.8,10.4
+Safi,2020,44.9,10.8
+Safi,2021,46.7,8.2
+Safi,2022,44.7,8.2
+Safi,2023,41.2,10.6
+Safi,2024,41.1,10.9
+Safi,2025,40.1,9.9
+Salé,2017,37.6,16.4
+Salé,2018,37.7,14.0
+Salé,2019,37.1,14.8
+Salé,2020,37.3,15.3
+Salé,2021,36.8,15.5
+Salé,2022,37.2,13.7
+Salé,2023,36.6,14.7
+Salé,2024,35.0,16.6
+Salé,2025,34.6,17.1
+Sefrou,2017,38.7,8.5
+Sefrou,2018,39.6,8.0
+Sefrou,2019,41.0,7.5
+Sefrou,2020,37.6,9.4
+Sefrou,2021,34.7,9.8
+Sefrou,2022,32.6,11.8
+Sefrou,2023,30.8,14.1
+Sefrou,2024,30.5,15.2
+Sefrou,2025,33.0,16.5
+Settat,2017,50.1,4.3
+Settat,2018,51.8,3.0
+Settat,2019,53.3,3.2
+Settat,2020,46.5,6.7
+Settat,2021,44.8,4.8
+Settat,2022,43.6,5.4
+Settat,2023,43.2,7.8
+Settat,2024,41.6,8.7
+Settat,2025,41.7,10.6
+Sidi Bennour,2017,65.3,4.6
+Sidi Bennour,2018,64.8,3.4
+Sidi Bennour,2019,60.5,4.6
+Sidi Bennour,2020,56.1,4.9
+Sidi Bennour,2021,56.9,6.5
+Sidi Bennour,2022,56.4,6.9
+Sidi Bennour,2023,49.3,8.7
+Sidi Bennour,2024,49.8,9.6
+Sidi Bennour,2025,50.1,7.5
+Sidi Ifni,2017,39.4,10.7
+Sidi Ifni,2018,37.0,10.7
+Sidi Ifni,2019,43.0,7.6
+Sidi Ifni,2020,37.0,12.2
+Sidi Ifni,2021,36.6,12.4
+Sidi Ifni,2022,34.6,13.1
+Sidi Ifni,2023,35.4,16.0
+Sidi Ifni,2024,35.2,11.3
+Sidi Ifni,2025,35.6,9.6
+Sidi Kacem,2017,46.1,6.9
+Sidi Kacem,2018,45.3,7.1
+Sidi Kacem,2019,45.2,6.4
+Sidi Kacem,2020,41.3,8.6
+Sidi Kacem,2021,41.9,8.4
+Sidi Kacem,2022,43.6,7.1
+Sidi Kacem,2023,42.6,7.3
+Sidi Kacem,2024,40.6,7.9
+Sidi Kacem,2025,38.9,7.7
+Sidi Slimane,2017,43.6,12.3
+Sidi Slimane,2018,43.1,11.4
+Sidi Slimane,2019,42.9,9.1
+Sidi Slimane,2020,38.9,14.2
+Sidi Slimane,2021,41.4,9.2
+Sidi Slimane,2022,42.6,7.3
+Sidi Slimane,2023,41.2,9.8
+Sidi Slimane,2024,40.3,10.1
+Sidi Slimane,2025,37.0,11.0
+Skhirate-Témara,2017,39.5,14.5
+Skhirate-Témara,2018,39.2,12.0
+Skhirate-Témara,2019,40.0,10.9
+Skhirate-Témara,2020,38.4,12.4
+Skhirate-Témara,2021,39.1,11.9
+Skhirate-Témara,2022,40.0,11.2
+Skhirate-Témara,2023,39.8,12.4
+Skhirate-Témara,2024,38.6,14.8
+Skhirate-Témara,2025,38.9,13.5
+Tan-Tan,2017,32.8,23.6
+Tan-Tan,2018,30.7,25.8
+Tan-Tan,2019,34.7,20.8
+Tan-Tan,2020,33.4,23.4
+Tan-Tan,2021,35.3,20.1
+Tan-Tan,2022,34.7,19.0
+Tan-Tan,2023,34.8,18.6
+Tan-Tan,2024,32.6,18.2
+Tan-Tan,2025,34.1,21.8
+Tanger-Assilah,2017,38.4,8.4
+Tanger-Assilah,2018,39.6,7.4
+Tanger-Assilah,2019,39.5,8.9
+Tanger-Assilah,2020,39.9,11.0
+Tanger-Assilah,2021,39.9,12.9
+Tanger-Assilah,2022,41.2,12.4
+Tanger-Assilah,2023,41.9,10.5
+Tanger-Assilah,2024,41.2,12.1
+Tanger-Assilah,2025,39.6,10.9
+Taounate,2017,53.5,1.5
+Taounate,2018,50.6,1.5
+Taounate,2019,50.6,1.6
+Taounate,2020,47.2,4.2
+Taounate,2021,46.4,3.6
+Taounate,2022,46.7,3.4
+Taounate,2023,44.6,2.7
+Taounate,2024,41.7,4.3
+Taounate,2025,39.9,7.9
+Taourirt,2017,37.7,17.0
+Taourirt,2018,37.5,14.6
+Taourirt,2019,37.2,14.0
+Taourirt,2020,34.8,20.7
+Taourirt,2021,35.0,18.2
+Taourirt,2022,33.7,17.9
+Taourirt,2023,31.8,18.5
+Taourirt,2024,29.8,22.1
+Taourirt,2025,30.6,22.7
+Taroudannt,2017,42.7,6.7
+Taroudannt,2018,41.8,7.9
+Taroudannt,2019,41.7,7.9
+Taroudannt,2020,39.5,8.9
+Taroudannt,2021,38.3,8.2
+Taroudannt,2022,34.5,7.9
+Taroudannt,2023,33.2,11.0
+Taroudannt,2024,35.1,8.3
+Taroudannt,2025,35.8,6.7
+Taza,2017,44.3,4.8
+Taza,2018,42.3,4.6
+Taza,2019,41.4,4.6
+Taza,2020,39.1,8.9
+Taza,2021,39.7,6.9
+Taza,2022,40.3,7.3
+Taza,2023,38.5,6.0
+Taza,2024,37.0,6.4
+Taza,2025,37.2,9.0
+Tinghir,2017,40.2,5.6
+Tinghir,2018,40.4,4.8
+Tinghir,2019,37.4,6.2
+Tinghir,2020,35.9,9.3
+Tinghir,2021,39.6,8.7
+Tinghir,2022,38.0,9.2
+Tinghir,2023,36.4,11.6
+Tinghir,2024,38.6,12.1
+Tinghir,2025,39.3,8.3
+Tiznit,2017,34.0,7.6
+Tiznit,2018,32.7,7.3
+Tiznit,2019,32.7,8.7
+Tiznit,2020,33.0,8.7
+Tiznit,2021,33.0,9.1
+Tiznit,2022,29.5,6.7
+Tiznit,2023,29.1,10.6
+Tiznit,2024,28.3,8.9
+Tiznit,2025,29.0,11.0
+Tétouan,2017,41.9,11.4
+Tétouan,2018,41.6,11.1
+Tétouan,2019,41.6,11.7
+Tétouan,2020,41.7,13.2
+Tétouan,2021,43.9,11.7
+Tétouan,2022,43.9,11.1
+Tétouan,2023,41.0,12.8
+Tétouan,2024,41.1,12.0
+Tétouan,2025,41.7,11.2
+Youssoufia,2017,39.6,11.8
+Youssoufia,2018,41.1,12.3
+Youssoufia,2019,43.9,5.3
+Youssoufia,2020,44.0,6.6
+Youssoufia,2021,43.9,6.0
+Youssoufia,2022,43.9,5.3
+Youssoufia,2023,38.3,7.2
+Youssoufia,2024,36.7,10.9
+Youssoufia,2025,37.2,7.7
